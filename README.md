@@ -12,5 +12,3 @@ The primary objectives of this project are as follows:
 - Identify any missing or inconsistent data and handle them appropriately.
 - Perform statistical analysis and visualizations to uncover patterns and insights.
 - Analyze the relationship between different variables in the dataset.
-- Present the findings in a clear and concise manner using visualizations and summaries.
-- The eda_sup.ipynb notebook provides a detailed walkthrough of the analysis, making it easy to follow along and replicate the results.
